@@ -11,7 +11,7 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone git@github.com:EvgeniiChichin/kinopoisk_top1000.git
+   git clone git@github.com:EvgeniiChichin/kinopoisk_parser.git
    cd your-repo
    ```
 
